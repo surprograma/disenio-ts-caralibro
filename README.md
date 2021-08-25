@@ -2,6 +2,8 @@
 
 ![Portada](assets/portada.jpg)
 
+> Este repositorio fue generado utilizando la [semilla Biblioteca Typescript](https://github.com/surprograma/semilla-typescript-lib). Recomendamos leer su README para conocer un poco más sobre las tecnologías elegidas y los requisitos para poder utilizarlo.
+
 ## Antes de empezar: algunos consejos
 
 El enunciado tiene **mucha** información, van a necesitar leerlo varias veces. La sugerencia es que lo lean entero una vez (para tener una idea general) y luego vuelvan a consultarlo las veces que hagan falta.
